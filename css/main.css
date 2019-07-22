@@ -24,7 +24,6 @@ h1 {
     font-family:'Georgia', 'Arial', 'Sans-Serif';
 }
 p {
-
     font-size: 1.5em;
     font-family: 'Georgia', 'Arial', 'Sans-Serif';
     line-height: 1.4em;
@@ -40,4 +39,6 @@ ul.posts {
 }
 ul.posts li {
     list-style: none;
+    font-size: 1.5em;
+    font-family: 'Georgia', 'Arial', 'Sans-Serif';
 }
