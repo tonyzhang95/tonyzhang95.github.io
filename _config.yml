@@ -1,2 +1,3 @@
 title: Zibo Zhang's Homepage
 description: Welcom!
+permalink: /blog/:year/:month/:day/:title
