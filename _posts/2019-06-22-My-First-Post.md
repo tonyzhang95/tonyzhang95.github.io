@@ -1,8 +1,14 @@
 ---
 layout: post
-title: "Zibo's New Website"
+title: "About This Page"
 date: 2019-06-22
 ---
 
-<h2>My First Post</h2>
-The purpose of this website is to store blogs and thoughts regrading my projects hosted on github.com.
+<h2>About This Page</h2>
+The purpose of this website is to store blogs and thoughts regrading my projects.
+Todos:
+<ul>
+  <li>Create docs for projects: text classifier.</li>
+  <li>Beatify page with css update.</li>
+  <li>Link zibozhang.me to this page.</li>
+</ul>
