@@ -9,6 +9,7 @@ baseurl:             ""
 paginate:            5
 paginate_path:       "page:num"
 plugins:             [jekyll-paginate]
+gems:                [jekyll-paginate]
 
 # Author
 builder:             Zibo Zhang

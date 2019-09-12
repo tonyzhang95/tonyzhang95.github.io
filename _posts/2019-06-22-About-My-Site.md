@@ -11,7 +11,8 @@ This website uses Jekyll to generate static site content and JavaScript, CSS lig
 Todos:
   * Create docs for my project: text classifier.
   * Link zibozhang.me to this page.
-  * Add comment section to this blog.
+  * Add Disquz comment section to this site.
+  * Add google analytics tracking for this site.
 
 Completed:
   * ~~Research basics of Github Pages and Jekyll.~~
@@ -22,3 +23,4 @@ Completed:
 #### This website is possible thanks to these resources:
   * [Baixin's tutorial on Jekyll](http://baixin.io:8000/2016/10/jekyll_tutorials1/) (in Chinese)
   * [Markdown syntax cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  * [Build a Blog Using Github Jekyll](https://www.nikhita.dev/build-blog-using-github-jekyll)
