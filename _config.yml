@@ -1,3 +1,19 @@
-name: Zibo Zhang's Homepage
-description: Welcom!
-permalink: /blog/:year/:month/:day/:title
+permalink:           pretty
+
+# Setup
+title:               Zibo's Website
+tagline:             "A digital collection of my life"
+description:         "Navigation"
+url:                 http://127.0.0.1:4000
+baseurl:             ""
+paginate:            5
+paginate_path:       "page:num"
+plugins:             [jekyll-paginate]
+
+# Author
+builder:             Zibo Zhang
+linkedin:            https://www.linkedin.com/in/zibozhang
+github:              https://github.com/tonyzhang95
+
+# Custom vars
+version:             0.0.1
