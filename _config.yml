@@ -4,7 +4,7 @@ permalink:           pretty
 title:               Zibo's Website
 tagline:             "A digital collection of my life"
 description:         "Navigation"
-url:                 http://127.0.0.1:4000
+url:                 http://tonyzhang95.github.io
 baseurl:             ""
 paginate:            5
 paginate_path:       "page:num"
