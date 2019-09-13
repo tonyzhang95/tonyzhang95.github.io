@@ -40,8 +40,8 @@ _Junior Environmental Engineer Aug 2018 - May 2019_
 University of California, San Diego  
 _Building Operation Assistant Dec 2015 – Jul 2017_  
 
-UCSD Sustainability Center
-_LEED Analyst Sep 2016 – Jun 2017_
+UCSD Sustainability Center  
+_LEED Analyst Sep 2016 – Jun 2017_  
 
 
 ***
