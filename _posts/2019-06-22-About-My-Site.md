@@ -13,6 +13,7 @@ Todos:
   * Link zibozhang.me to this page.
   * Add Disquz comment section to this site.
   * Add google analytics tracking for this site.
+  * Make a personal favicon.
 
 Completed:
   * ~~Research basics of Github Pages and Jekyll.~~
