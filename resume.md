@@ -24,7 +24,7 @@ _Bachelor of Science in Environmental Engineering Sep 2014 - Jun 2018_
 __Work__
 
 China Media Cloud, an Alibaba Cloud Company  
-_Software Development Engineer Jun 2019 - Aug 2019_  
+_Software Development Engineer, Jun 2019 - Aug 2019_  
 · Researched and developed a text classifier for news on 14 categories with a CNN structure using TensorFlow and Keras, achieving a 99% accuracy (5% improvement from previous generation).  
 · Wrote and packaged scripts to automatically collect news text data from APIs into database, preprocess (cleaning, segmentation, labeling) and format text for training, train/update Word2Vec model.  
 · Facilitated product (AI news editor) planning and analysis processes by transferring clients needs into technical specifications and sharing technological insights.  
@@ -32,16 +32,16 @@ _Software Development Engineer Jun 2019 - Aug 2019_
 · Composed presentation/proposal slides for management team to take in clients.  
 
 Sunlight Solar Cell Design and Encapsulation LLC.  
-_Junior Environmental Engineer Aug 2018 - May 2019_  
+_Junior Environmental Engineer, Aug 2018 - May 2019_  
 · Designed and implemented testing procedures, equipment assemblies, and data analysis to quantify photovoltaic solar panel performance with respect to air pollutions in the form of particulate matters with regards to local temperature and sunlight profile.  
 · Collected, cleaned, and analyzed solar panel performance data under lab and realistic environments with Excel and Python to conclude a proposal to improve panel efficiency by 20% in dusty weather with a new internal solar cell configurations and orientation of the panels.  
 · Cooperated with senior engineers to form detailed, bilingual reports and data visualizations for the domestic and overseas shareholders and marketing teams.  
 
 University of California, San Diego  
-_Building Operation Assistant Dec 2015 – Jul 2017_  
+_Building Operation Assistant, Dec 2015 – Jul 2017_  
 
 UCSD Sustainability Center  
-_LEED Analyst Sep 2016 – Jun 2017_  
+_LEED Analyst, Sep 2016 – Jun 2017_  
 
 
 ***
@@ -52,9 +52,9 @@ __Skills__
 * Machine Learning/AI: Numpy, Pandas, TensorFlow, Keras, Flask, NLTK, Gensim, CoreNLP  
 * Data Analysis/Visualization: Pandas, Numpy, Matplotlib, Seaborn  
 * Version Control: Git, Github
-* Database: mySQL, Redis  
+* Database: SQL, mySQL, Redis  
 * Languages: Chinese (Native Proficiency)  
 
 
 
-Last Update: 9-12-2019  
+Last Update: 09-12-2019  
