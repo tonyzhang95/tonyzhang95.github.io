@@ -6,11 +6,11 @@ date: 2019-10-01
 
 ### An Introduction to My Word2Vec Application
 
-At China Media Cloud, I've worked on multiple applications involving Word2Vec models. The basic idea behind Word2Vec is to represent words with vectors in order to use mathematical properties of vectors to perform calculations with words. The majority of my work on Word2Vec models is done with Python's CoreNLP, developed by Stanford University, and Gensim, an awesome package for Word2Vec modeling.
+At China Media Cloud, I've worked on multiple applications involving Word2Vec models. The basic idea behind Word2Vec is to represent words with vectors in order to use mathematical properties of vectors to perform calculations with words. The majority of my work on Word2Vec models is done with Python's [CoreNLP](https://stanfordnlp.github.io/CoreNLP/), developed by Stanford University, and [Gensim](https://radimrehurek.com/gensim/), an awesome package for Word2Vec modeling. Both are open source.
 
 Some of the things I did was:
   * Identify customer business need that can be fulfilled with Word2Vec models.
-  * Collect training data with internal APIs and data of my company.
+  * Collect training data with internal APIs and database.
   * Preprocess, format, and label data for training.
   * Use Gensim to train Word2Vec models.
   * Incorporate Word2Vec models into Smart Editor web application.
