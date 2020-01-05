@@ -4,29 +4,31 @@ title: Resume
 ---
 
 ***
-Computer Engineering Graduate Student at New York University.
+M.S. Computer Engineering @ New York University.  
+Seeking software development internship in 2020 summer.
 [Email](mailto:zibozhang@nyu.edu) 􏰂 [Github](https://tonyzhang95.github.io)
 
 ***
 
-__Education__
+__EDUCATION__
 
 New York University, Brooklyn, NY  
-_Master of Science in Computer Engineering  Sep 2019 - Present_  
-· Key Curriculum: Data Structure, Algorithms, Internet Architecture and Protocols, Computer System Architecture.
+_Master of Science in Computer Engineering  Sep 2019 - May 2021_  
+· Key Courses: Data Structure and Algorithms, Internet Architecture and Protocols, Computer System Architecture, Database, Cloud Computing and Datacenter, Machine Learning
+· GPA: 3.83
 
 University of California San Diego, San Diego, CA  
 _Bachelor of Science in Environmental Engineering Sep 2014 - Jun 2018_  
-· Key Curriculum: Linear Algebra, Matlab, Computational Math, Probability, Statistics, Fluid Mechanics.
+· Key Courses: Linear Algebra, Matlab, Computational Math, Probability, Statistics, Fluid Mechanics.
 
 ***
 
-__Work__
+__EXPERIENCE__
 
 China Media Cloud, an Alibaba Cloud Company  
 _Software Development Engineer, Jun 2019 - Aug 2019_  
-· Researched and developed a text classifier for news on 14 categories with a CNN structure using TensorFlow and Keras, achieving a 99% accuracy (5% improvement from previous generation).  
-· Wrote and packaged scripts to automatically collect news text data from APIs into database, preprocess (cleaning, segmentation, labeling) and format text for training, train/update Word2Vec model.  
+· Researched and developed a text classifier for news on 14 categories with a CNN architecture using TensorFlow and Keras, achieving a 99% accuracy (5% improvement from previous generation).  
+· Wrote and packaged scripts to automatically collect news text data with APIs into database, preprocess (cleaning, segmentation, labeling) and format text for training, train/update Word2Vec model.  
 · Facilitated product (AI news editor) planning and analysis processes by transferring clients needs into technical specifications and sharing technological insights.  
 · Facilitated product planning and analysis processes by providing technological insights for clients benefits.  
 · Composed presentation/proposal slides for management team to take in clients.  
@@ -39,22 +41,28 @@ _Junior Environmental Engineer, Aug 2018 - May 2019_
 
 University of California, San Diego  
 _Building Operation Assistant, Dec 2015 – Jul 2017_  
+· Created and tracked thousands work orders and receipts of constructions, repairs, and maintenances.  
+· Took meeting notes and composed presentations for senior managers.
+· Improved EV charging station usage time 20% by analyzing charging data to set more appropriate time limits and making campus charging station maps.  
+· Co-managed social media accounts of UCSD Sustainability and EV fleet, improved recognizability by 45% among students and faculties.  
 
 UCSD Sustainability Center  
 _LEED Analyst, Sep 2016 – Jun 2017_  
-
+· Performed calculations on whole_building energy budget and transportations for LEED certifications of UCSD campus master cite project.
 
 ***
 
 __Skills__
 
 * Programming: Python, C, C++, UNIX Commands, HTML, CSS, JavaScript  
-* Machine Learning/AI: Numpy, Pandas, TensorFlow, Keras, Flask, NLTK, Gensim, CoreNLP  
-* Data Analysis/Visualization: Pandas, Numpy, Matplotlib, Seaborn  
+* Machine Learning: Scikit-Learn, TensorFlow, Keras, NLTK, Gensim, CoreNLP  
+* Data Analysis: Pandas, Numpy, Pandas, Matplotlib, Seaborn
 * Version Control: Git, Github
 * Database: SQL, mySQL, Redis  
+* Frameworks: Flask, Django
+
 * Languages: Chinese (Native Proficiency)  
 
 
 
-Last Update: 09-12-2019  
+Last Update: 01-04-2020   
