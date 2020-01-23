@@ -13,12 +13,12 @@ Seeking software development internship in 2020 summer.
 __EDUCATION__
 
 New York University, Brooklyn, NY  
-_Master of Science in Computer Engineering  Sep 2019 - May 2021_  
-· Key Courses: Data Structure and Algorithms, Internet Architecture and Protocols, Computer System Architecture, Database, Cloud Computing and Datacenter, Machine Learning
-· GPA: 3.83
+_Master of Science in Computer Engineering  2019 - 2021_  
+· Key Courses: Data Structure and Algorithms, Internet Architecture and Protocols, Computer System Architecture, Database, Cloud Computing and Datacenter, Machine Learning  
+· GPA: 3.9
 
 University of California San Diego, San Diego, CA  
-_Bachelor of Science in Environmental Engineering Sep 2014 - Jun 2018_  
+_Bachelor of Science in Environmental Engineering 2013 - 2018_  
 · Key Courses: Linear Algebra, Matlab, Computational Math, Probability, Statistics, Fluid Mechanics.
 
 ***
@@ -59,10 +59,10 @@ __Skills__
 * Data Analysis: Pandas, Numpy, Pandas, Matplotlib, Seaborn
 * Version Control: Git, Github
 * Database: SQL, mySQL, Redis  
-* Frameworks: Flask, Django
+* Web Frameworks: Flask, Django
 
 * Languages: Chinese (Native Proficiency)  
 
 
 
-Last Update: 01-04-2020   
+Last Update: 01-20-2020   
