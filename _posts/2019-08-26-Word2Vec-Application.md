@@ -2,6 +2,7 @@
 layout: post
 title: Word2Vec Application
 date: 2019-10-01
+tags: NLP blog work project
 ---
 
 ### An Introduction to My Word2Vec Application

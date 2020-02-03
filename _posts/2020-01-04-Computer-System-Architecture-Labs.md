@@ -2,6 +2,7 @@
 layout: post
 title: Computer System Architecture Labs
 date: 2020-01-04
+tags: school project
 ---
 
 ### Computer System Architecture Labs
