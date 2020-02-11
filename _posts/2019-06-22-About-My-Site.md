@@ -2,7 +2,7 @@
 layout: post
 title: About My Website
 date: 2019-06-22
-tags: misc work blog 
+tags: misc work 
 ---
 
 ### About My Website
