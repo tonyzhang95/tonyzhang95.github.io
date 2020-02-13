@@ -24,8 +24,11 @@ _Bachelor of Science in Environmental Engineering 2013 - 2018_
 ***
 
 __EXPERIENCE__
+New York University High Speed Network Lab  
+_Graduate Research Assistant, Jan 2020 - Present_  
+· Researched academic papers covering high-speed networking, datacenter, cloud computing.
 
-China Media Cloud, an Alibaba Cloud Company  
+Alibaba Cloud  
 _Software Development Engineer, Jun 2019 - Aug 2019_  
 · Researched and developed a text classifier for news on 14 categories with a CNN architecture using TensorFlow and Keras, achieving a 99% accuracy (5% improvement from previous generation).  
 · Wrote and packaged scripts to automatically collect news text data with APIs into database, preprocess (cleaning, segmentation, labeling) and format text for training, train/update Word2Vec model.  

@@ -1,26 +1,25 @@
 ---
 layout: post
-title: About My Website
+title: About This Website
 date: 2019-06-22
-tags: misc work 
+tags: misc work
 ---
 
-### About My Website
+### About This Website
 
-This website uses Jekyll to generate static site content and JavaScript, CSS lightly.
+This website uses Jekyll to generate static site content and JavaScript, CSS for formatting.
 
 Todos:
   * Create docs for my project: text classifier.
-  * Link zibozhang.me to this page.
   * Add Disquz comment section to this site.
   * Add google analytics tracking for this site.
-  * Make a personal favicon.
 
 Completed:
-  * ~~Research basics of Github Pages and Jekyll.~~
-  * ~~Get this page running on github.io.~~
+  * ~~Research the basics of Github Pages and Jekyll.~~
   * ~~Configure Jekyll & ruby environment and run this site locally for testing and development.~~
-  * ~~Apply a Jekyll theme to this site.~~
+  * ~~Configure and host on on github.io.~~
+  * ~~Apply Jekyll themes and customize visual elements.~~
+  * ~~Make & apply a favicon.~~
 
 #### This website is possible thanks to these resources:
   * [Baixin's tutorial on Jekyll](http://baixin.io:8000/2016/10/jekyll_tutorials1/) (in Chinese)
