@@ -23,10 +23,10 @@ _Bachelor of Science in Environmental Engineering 2013 - 2018_
 
 ***
 
-__EXPERIENCE__
+__EXPERIENCE__  
 New York University High Speed Network Lab  
 _Graduate Research Assistant, Jan 2020 - Present_  
-· Researched academic papers covering high-speed networking, datacenter, cloud computing.
+· Researched academic papers covering high-speed networking, datacenter, cloud computing.  
 
 Alibaba Cloud  
 _Software Development Engineer, Jun 2019 - Aug 2019_  
