@@ -10,7 +10,7 @@ Seeking software development internship in 2020 summer.
 
 ***
 
-__EDUCATION__
+__EDUCATION__  
 
 New York University, Brooklyn, NY  
 _Master of Science in Computer Engineering  2019 - 2021_  
@@ -23,10 +23,15 @@ _Bachelor of Science in Environmental Engineering 2013 - 2018_
 
 ***
 
-__EXPERIENCE__
+__EXPERIENCE__   
+
+New York University  
+_Graduate Teaching Assistant, Sept 2020 - Present_  
+· Co-designed and created teaching materials and code repositories for lab sessions for Cloud Computing and Data Center course.   
+
 New York University High Speed Network Lab  
-_Graduate Research Assistant, Jan 2020 - Present_  
-· Researched academic papers covering high-speed networking, datacenter, cloud computing.
+_Graduate Research Assistant, Jan 2020 - Jun 2020  
+· Researched academic papers covering high-speed networking, datacenter, cloud computing.  
 
 Alibaba Cloud  
 _Software Development Engineer, Jun 2019 - Aug 2019_  
@@ -59,10 +64,10 @@ __Skills__
 
 * Programming: Python, C, C++, UNIX Commands, HTML, CSS, JavaScript  
 * Machine Learning: Scikit-Learn, TensorFlow, Keras, NLTK, Gensim, CoreNLP  
-* Data Analysis: Pandas, Numpy, Pandas, Matplotlib, Seaborn
+* Data: Pandas, Numpy, Pandas, Matplotlib, Seaborn
 * Version Control: Git, Github
 * Database: SQL, mySQL, Redis  
-* Web Frameworks: Flask, Django
+* Web Dev: Flask, Django, Bootstrap, jQuery, Ajax
 
 * Languages: Chinese (Native Proficiency)  
 
